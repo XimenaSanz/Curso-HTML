@@ -1,0 +1,20 @@
+.dosem{
+    font-size: 2em;
+}
+
+.cuatroem{
+    font-size: 4em;
+}
+.otravez2em{
+    font-size: .5em;
+}
+
+p.style{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    color: #AF7AC5;
+}
